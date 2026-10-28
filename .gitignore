@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilação
+[Bb]in/
+[Oo]bj/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
